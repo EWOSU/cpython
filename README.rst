@@ -37,6 +37,10 @@ see the `Developer Guide`_.
 
 .. _Developer Guide: https://devguide.python.org/
 
+C and Python Programming Tutorials
+-----------------------
+
+
 Using Python
 ------------
 
