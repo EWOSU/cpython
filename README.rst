@@ -38,19 +38,23 @@ see the `Developer Guide`_.
 .. _Developer Guide: https://devguide.python.org/
 
 C and Python Programming Tutorials
------------------------
+----------------------------------
+
+It's important that newcomers to the Python (CPython) project have enough background to make meaningful contributions. 
+This open source project is mostly written in Python and C; therefore it makes sense to include free and high-quality
+Python and C tutorials.
 
 Free, high quality, in-depth tutorials to learn the Python programming language:
 
 - https://www.learnpython.org/ - Description: This is a free, interactive Python tutorial provided by DataCamp. It is taught via videos and exercises and when finished, a test can be taken on learnx.org to become certified in Python.
-- Python for Everybody Specialization by the University of Michigan - Description: This is a free course offered by the University of Michigan via Coursera. It is taught through videos as well as assessments and is broken down into five parts.
-- Python for Beginners [Full Course - 2023] - Learn Python - Description: This is a freely offered course on Python that is available on the edureka! YouTube channel. It is taught via videos and code along exercises.
+- https://www.coursera.org/specializations/python - Description: This is a free course offered by the University of Michigan via Coursera. It is taught through videos as well as assessments and is broken down into five parts.
+- https://www.youtube.com/watch?v=X6bFJI9r-mM&list=PL9ooVrP1hQOE4KoZLUP4LgBwFH2IJCQs6&index=2 - Description: This is a freely offered course on Python that is available on the edureka! YouTube channel. It is taught via videos and code along exercises.
 
 Free, high quality, in-depth tutorials to learn the C programming language:
 
 - https://www.learn-c.org/ - Description: This is a free, interactive C tutorial provided by Interactive Tutorials. It is taught via a step by step guide with exercises throughout the tutorial.
-- Introductory C Programming Specialization by Duke University - Description: This is a freely offered course by Duke University via Coursera. It is taught through videos, assessments, as well as quizzes and is broken down into four parts.
-- Learn C from Scratch - Description: This is a free interactive C tutorial provided by educative. It is taught via a step by step guide with exercises throughout the course.
+- https://www.coursera.org/specializations/c-programming?irclickid=SjUQY3XxZxyNTso2niVMsW8OUkAQruzhU3uIys0&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=3294490&utm_content=b2c - Description: This is a freely offered course by Duke University via Coursera. It is taught through videos, assessments, as well as quizzes and is broken down into four parts.
+- https://www.educative.io/courses/learn-c-from-scratch?affiliate_id=5073518643380224 - Description: This is a free interactive C tutorial provided by educative. It is taught via a step by step guide with exercises throughout the course.
 
 Using Python
 ------------
