@@ -40,6 +40,17 @@ see the `Developer Guide`_.
 C and Python Programming Tutorials
 -----------------------
 
+Free, high quality, in-depth tutorials to learn the Python programming language:
+
+- https://www.learnpython.org/ - Description: This is a free, interactive Python tutorial provided by DataCamp. It is taught via videos and exercises and when finished, a test can be taken on learnx.org to become certified in Python.
+- Python for Everybody Specialization by the University of Michigan - Description: This is a free course offered by the University of Michigan via Coursera. It is taught through videos as well as assessments and is broken down into five parts.
+- Python for Beginners [Full Course - 2023] - Learn Python - Description: This is a freely offered course on Python that is available on the edureka! YouTube channel. It is taught via videos and code along exercises.
+
+Free, high quality, in-depth tutorials to learn the C programming language:
+
+- https://www.learn-c.org/ - Description: This is a free, interactive C tutorial provided by Interactive Tutorials. It is taught via a step by step guide with exercises throughout the tutorial.
+- Introductory C Programming Specialization by Duke University - Description: This is a freely offered course by Duke University via Coursera. It is taught through videos, assessments, as well as quizzes and is broken down into four parts.
+- Learn C from Scratch - Description: This is a free interactive C tutorial provided by educative. It is taught via a step by step guide with exercises throughout the course.
 
 Using Python
 ------------
