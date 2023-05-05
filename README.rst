@@ -42,7 +42,7 @@ C and Python Programming Tutorials
 
 It's important that newcomers to the Python (CPython) project have enough background to make meaningful contributions. 
 This open source project is mostly written in Python and C; therefore it makes sense to include free and high-quality
-Python and C tutorials for those lacking background.
+Python and C tutorials for those lacking sufficient background.
 
 Free, high quality, in-depth tutorials to learn the Python programming language:
 
