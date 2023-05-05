@@ -48,7 +48,7 @@ Free, high quality, in-depth tutorials to learn the Python programming language:
 
 - https://www.learnpython.org/ - Description: This is a free, interactive Python tutorial provided by DataCamp. It is taught via videos and exercises and when finished, a test can be taken on learnx.org to become certified in Python.
 - `Python for Everybody`_
-.._Python for Everybody: https://www.coursera.org/specializations/python 
+.. _Python for Everybody: https://www.coursera.org/specializations/python 
 Description: This is a free course offered by the University of Michigan via Coursera. It is taught through videos as well as assessments and is broken down into five parts.
 
 - https://www.youtube.com/watch?v=X6bFJI9r-mM&list=PL9ooVrP1hQOE4KoZLUP4LgBwFH2IJCQs6&index=2 - Description: This is a freely offered course on Python that is available on the edureka! YouTube channel. It is taught via videos and code along exercises.
