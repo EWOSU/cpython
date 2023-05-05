@@ -56,9 +56,12 @@ Free, high quality, in-depth tutorials to learn the Python programming language:
 
 Free, high quality, in-depth tutorials to learn the C programming language:
 
-- https://www.learn-c.org/ - Description: This is a free, interactive C tutorial provided by Interactive Tutorials. It is taught via a step by step guide with exercises throughout the tutorial.
-- https://www.coursera.org/specializations/c-programming?irclickid=SjUQY3XxZxyNTso2niVMsW8OUkAQruzhU3uIys0&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=3294490&utm_content=b2c - Description: This is a freely offered course by Duke University via Coursera. It is taught through videos, assessments, as well as quizzes and is broken down into four parts.
-- https://www.educative.io/courses/learn-c-from-scratch?affiliate_id=5073518643380224 - Description: This is a free interactive C tutorial provided by educative. It is taught via a step by step guide with exercises throughout the course.
+- `Learn C`_ - Description: This is a free, interactive C tutorial provided by Interactive Tutorials. It is taught via a step by step guide with exercises throughout the tutorial.
+.. _Learn C: https://www.learn-c.org/
+- `Introductory C Programming`_ - Description: This is a freely offered course by Duke University via Coursera. It is taught through videos, assessments, as well as quizzes and is broken down into four parts.
+.. _Introductory C Programming: https://www.coursera.org/specializations/c-programming?irclickid=SjUQY3XxZxyNTso2niVMsW8OUkAQruzhU3uIys0&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=3294490&utm_content=b2c
+- `Learn C from Scratch`_ - Description: This is a free interactive C tutorial provided by educative. It is taught via a step by step guide with exercises throughout the course.
+.. _Learn C from Scratch: https://www.educative.io/courses/learn-c-from-scratch?affiliate_id=5073518643380224
 
 Using Python
 ------------
